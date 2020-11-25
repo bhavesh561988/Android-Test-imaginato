@@ -10,6 +10,6 @@ Used libraries of
 
 Used MVVM architecture
 
-LoginActivity is screen where username and password added
-LoginViewModel is viewmodel
-activity_login is layout file of screen
+- LoginActivity is screen where username and password added
+- LoginViewModel is viewmodel
+- activity_login is layout file of screen
